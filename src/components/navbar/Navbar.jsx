@@ -9,7 +9,7 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 
 
-const brandName = 'Vyavasaya.site'
+const brandName = 'Vyavasaya'
 
 function Navbar() {
     const router = useRouter()
